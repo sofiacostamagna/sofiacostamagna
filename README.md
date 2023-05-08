@@ -10,4 +10,10 @@ Welcome to my GitHub!
 🌱 Currently, I am in the final stages of completing the "I am HENRY" boot camp, where I got over 800 hours of hands-on practice in web programming.
 I am passionate about taking on new challenges, solving problems and providing high-quality solutions. Let's connect and create something amazing together!
 
+If you want to contact me:
+
+*E-mail: sofiacostamagna45@gmail.com  
+
+*Linkedin: https://www.linkedin.com/in/sofia-costamagna
+
   
