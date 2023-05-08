@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I'm Sofia Costamagna, a Full Stack Developer.
+I'm Sofia Costamagna, Full Stack developer.
 
 Welcome to my GitHub!
 
-😄 I am known for being hardworking, responsible, and a fast learner. I thrive on self-directed learning and continuously expanding my skillset.
-🌱 Currently, I am in the final stages of completing the "SoyHENRY" bootcamp, where I have gained over 800 hours of hands-on practice in web programming.
-Additionally, my previous work experiences have provided me with valuable teamwork skills, customer service expertise, proficiency in various software tools, and social media management capabilities.
+😄 I characterize myself as a responsible professional who values continuous learning and growth. I am looking to expand my knowledge and skills in the ever-evolving field of Full Stack development.
+🌱 I'm always looking for new opportunities to learn and grow, whether it's through online courses, coding challenges, or keeping up with the latest industry trends.
+👯 I thrive in collaborative environments and enjoy working as part of a team, leveraging collective strengths to achieve shared goals.
+🌱 Currently, I am in the final stages of completing the "I am HENRY" boot camp, where I got over 800 hours of hands-on practice in web programming.
+I am passionate about taking on new challenges, solving problems and providing high-quality solutions. Let's connect and create something amazing together!
