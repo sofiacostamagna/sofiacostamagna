@@ -24,6 +24,6 @@ Feel free to reach me via:
 
 📧 Email: sofiacostamagna45@gmail.com
 
-🔗 LinkedIn: [Your LinkedIn profile URL]
+🔗 LinkedIn: https://www.linkedin.com/in/sofia-costamagna/
 
   
