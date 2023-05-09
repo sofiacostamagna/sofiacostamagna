@@ -13,7 +13,9 @@ Welcome to my GitHub!
 🌱 Currently, I am in the final stages of completing the "I am HENRY" boot camp, where I gained over 800 hours of hands-on practice in web programming. I specialize in the following technologies:
 
 Front End: React | Redux | React Native | Bootstrap | CSS | Tailwind
+
 Back End: Node | Express | JavaScript
+
 Database: PostgreSQL | Sequelize
 
 I am passionate about taking on new challenges, solving problems, and delivering high-quality solutions. Let's connect and create something amazing together!
