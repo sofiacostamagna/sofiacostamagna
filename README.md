@@ -11,12 +11,7 @@ Welcome to my GitHub!
 👯 I thrive in collaborative environments and enjoy working as part of a team, leveraging collective strengths to achieve shared goals.
 
 🌱I got my certificate in "I'm HENRY" where I did more than 800 hours of hands-on practice in web programming. I specialize in the following technologies:
-
-Interface: React | redux | react native | Boot | CSS | Tailwind
-
-Back End: Node | express | javascript
-
-Database: PostgreSQL | sequel
+JavaScript, React, Redux, Node.js, Sequelize, Express, PgAdmin, Tailwind, CSS y Bootstrap.
 
 I am passionate about taking on new challenges, solving problems and providing high-quality solutions. Let's connect and create something amazing together!
 
