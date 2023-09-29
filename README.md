@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sofia Costamagna | Full Stack Developer
+Sofia Costamagna | Front End Developer
 
 Welcome to my GitHub!
 
