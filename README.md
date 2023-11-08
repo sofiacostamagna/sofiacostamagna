@@ -1,4 +1,4 @@
-##Hello! 
+## Hi 🖐🏽! 
 
 I'm Sofía  a passionate Frontend developer with a specialized focus on UX/UI. I enjoy creating interactive and user-friendly interfaces that connect with users in a unique way. For me, technology is a constant adventure full of exciting possibilities.
 
