@@ -1,24 +1,21 @@
-## Hi there 👋
+##Hello! 
 
-Sofia Costamagna | Front End Developer
+I'm Sofía  a passionate Frontend developer with a specialized focus on UX/UI. I enjoy creating interactive and user-friendly interfaces that connect with users in a unique way. For me, technology is a constant adventure full of exciting possibilities.
 
-Welcome to my GitHub!
+My professional journey has been diverse. My experience in Human Resources provided me with strong skills in communication and personnel management. Successfully leading a COVID-19 vaccination campaign allowed me to develop leadership skills in a challenging and socially relevant environment.
 
-😄 I consider myself a responsibI consider myself a responsible professional who values continuous learning and growth. I am passionate about expanding my knowledge and skills in the ever-evolving field of Full Stack development.
+Beyond the professional world, hockey is a passion that taught me the importance of teamwork and discipline to achieve shared goals. Additionally, living in Canada for a few months expanded my horizons by exposing me to diverse cultures and languages, an experience I deeply cherish.
 
-🌱 I'm always looking for new opportunities to learn and grow, whether it's through online courses, coding challenges, or keeping up with the latest industry trends.
+As a developer, I am in a continuous learning mode, striving to improve my skills and challenging myself on innovative projects. My goal is to contribute to a dynamic and committed team where I can bring my enthusiasm and willingness to learn.
 
-👯 I thrive in collaborative environments and enjoy working as part of a team, leveraging collective strengths to achieve shared goals.
+If you're interested in having a dedicated and motivated team member, I would love to be part of your team!
 
-🌱I got my certificate in "I'm HENRY" where I did more than 800 hours of hands-on practice in web programming. I specialize in the following technologies:
-JavaScript, React, Redux, Node.js, Sequelize, Express, PgAdmin, Tailwind, CSS y Bootstrap.
+Feel free to reach out to me through:
 
-I am passionate about taking on new challenges, solving problems and providing high-quality solutions. Let's connect and create something amazing together!
+📌 sofiacostamagna45@gmail.com
 
-Feel free to reach me via:
+📌 Linkedin: https://www.linkedin.com/in/sofia-costamagna/
 
-📧 Email: sofiacostamagna45@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/sofia-costamagna/
+I look forward to the opportunity to collaborate and make a difference together!
 
   
